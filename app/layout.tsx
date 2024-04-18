@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   videos effortlessly, without restrictions. Start converting now and
   elevate your content like never before!`,
     creator: "Nikhil Shukla",
-    keywords: "image converter, video converter, audio converter, unlimited image converter, unlimited video converter",
+    keywords: "online image converter, online video converter, online audio converter, unlimited image converter, unlimited video converter",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
